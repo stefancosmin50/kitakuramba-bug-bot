@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254748895682"
-global.ownername = "Collins Otieno"
+global.ownernomer = "0770811929"
+global.ownername = "VENOM"
 global.ytname = "Collome"
 global.socialm = "GitHub: Collome"
 global.location = "Africa, Kenya, Siaya"
 
-global.ownernumber = '254748895682,254757186351'  //creator number
+global.ownernumber = '0770811929,0770811929'  //creator number
 global.ownername = 'Collins Otieno' //owner name
 global.botname = '🕷Kitakuramba🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Collins_Otieno\n\nContact: +254748895682'
+global.author = 'Collins_Otieno\n\nContact: +0770811929'
 
 //console view/theme
 global.themeemoji = '🪀'
